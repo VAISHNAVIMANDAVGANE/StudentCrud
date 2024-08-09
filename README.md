@@ -11,7 +11,6 @@
 
 The Student Operation Functionality is a component of the Student Management System designed to handle various operations related to student records. This module provides functionality for adding, updating, retrieving, and deleting student information. It is intended to streamline student data management and ensure efficient and accurate record-keeping.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Learning Laravel
 
